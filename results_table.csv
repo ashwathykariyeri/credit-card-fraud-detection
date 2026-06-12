@@ -1,0 +1,4 @@
+Model,Threshold,Precision,Recall,F1-Score,AUC-ROC
+Logistic Regression,0.9999999868868779,0.8333,0.8163,0.8247,0.971
+Decision Tree,0.9991562100220475,0.4783,0.7857,0.5946,0.8689
+Naive Bayes,1.0,0.0991,0.8061,0.1765,0.9646
